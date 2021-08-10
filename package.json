@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentruongtoan1309/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog",
+    "nodejs",
+    "blog"
+  ],
+  "author": "titusnguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyentruongtoan1309/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/nguyentruongtoan1309/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
